@@ -14,7 +14,7 @@ to be recorded.**
 ### ⏱ 0:00 — TITLE CARD (scene 1, 0:00–0:05.5)
 
 **(NARRATOR, over the dawn hills)**
-> **Shwmae — and welcome to Cwm Twp. A valley so quiet, you can hear the
+> **Shwmae — and welcome to Cwm Dwl. A valley so quiet, you can hear the
 > tea going cold.**
 
 *Screen: on-screen line “Tadcu: Shwmae! Cap, stick, thermos…” ¹ is subtitle
@@ -25,7 +25,7 @@ only — the narrator opens over it.*
 ### ⏱ 0:05.5 — THE COTTAGE (scene 2)
 
 **0:05.9**
-> **Bore da, Cwm Twp. Grandad's favourite time of day: two boiled eggs,
+> **Bore da, Cwm Dwl. Grandad's favourite time of day: two boiled eggs,
 > one cup of tea — and ninety-nine ewes, allegedly, in the right field.**
 
 **0:14.0 (after Tadcu's line "Bore da, Bryn… and where exactly did I leave the
@@ -116,7 +116,7 @@ call it ninety for the road.”)*
 ### ⏱ 1:19.5 — END CARD (scene 7)
 
 **1:21.7 (as the sheep bob and "Nos da." appears)**
-> **Nos da, Cwm Twp. Sleep well, mind the gate.**
+> **Nos da, Cwm Dwl. Sleep well, mind the gate.**
 
 *MUSIC OUT.*
 

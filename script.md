@@ -19,7 +19,7 @@ Over rolling hills at dawn, hand-lettered title:
 
 Sun climbs over the hill. Smoke curls from the chimney of a stone cottage.
 
-- **NARRATOR:** "Bore da, Cwm Twp. Grandad's favourite time of day: two boiled
+- **NARRATOR:** "Bore da, Cwm Dwl. Grandad's favourite time of day: two boiled
   eggs, one cup of tea, and ninety-nine ewes — allegedly — in the right field."
 - **TADCU** (sipping tea, at the gate): "Bore da, Bryn. And where — exactly —
   did I leave the girls last night?"

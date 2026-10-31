@@ -23,7 +23,7 @@ Open `index.html` in a browser (Chrome, Edge, Firefox or Safari), then press the
 - **Bryn** — Tadcu's border-collie. Does all the actual work. Long-suffering.
 - **The Sheep** — Ninety-nine ewes, individually named but collectively referred
   to as "the girls".
-- **Setting** — Cwm Twp, a flat-topped valley somewhere in mid-Wales. Dramatic
+- **Setting** — Cwm Dwl, a flat-topped valley somewhere in mid-Wales. Dramatic
   hills, tiny cottage, bigger gate.
 
 ## Production
