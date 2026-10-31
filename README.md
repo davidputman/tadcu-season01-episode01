@@ -32,4 +32,4 @@ Style: flat 2-D vector shapes with thick outline-free silhouettes, limited
 palette (greens, cream, slate grey, warm red-orange), baked into HTML/CSS/SVG.
 Runtime: ~1 minute per scene cycle, 5 scenes.
 
-© 2026 — Tadcu series. Episode 1 of the `test01` production run.
+© 2026 — Tadcu series. Episode 1 of the `episode01` production run.

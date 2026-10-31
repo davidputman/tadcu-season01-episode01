@@ -1,6 +1,6 @@
 # Tadcu — Episode 1: "The Great Sheep Escape"
 
-*Series: Tadcu · Episode 1 · Production: test01*
+*Series: Tadcu · Episode 1 · Production: episode01*
 
 ---
 
